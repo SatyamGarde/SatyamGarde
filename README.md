@@ -1,7 +1,6 @@
 <!-- <h1>Hi there, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Satyam Garde</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h1>I am a Web Developer📱📱</h1> -->
 <!-- <a href="#"><img width="100%"  height="auto" src="https://wallpapercave.com/wp/wp6784380.jpg" height="175px"/></a> -->
-<a href="#"><img   height="20%" src="https://github.com/atharvakutwal2002/SatyamGarde/blob/main/banner.png" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Satyam </h1>
 <h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and  Competitive Programmer .</h3>
