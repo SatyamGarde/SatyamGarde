@@ -10,12 +10,9 @@
  ---
  
 - 👨‍🎓Hey there, I am Satyam Garde , currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
-- 💻I am an **Web developer** as well as a **Competitive Programmer** <br/>
-<!-- - My Primary Coding language is **C++**.<br/> -->
-- 5⭐ coder on **Hackerrank**<br/>
-
+- 💻I’m currently learning **DSA | Web dev | Java** <br/>
+- My Primary Coding language is **C++**.<br/> 
 - I love❤️ to make **exciting projects**.<br/>
-- I really enjoy learning 🚀 new frameworks like⚡ **React**.<br/>
 -  **I love watching web series and hitting the GYM very often.**
 <div align="center">
   <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width =       100px></h2>
