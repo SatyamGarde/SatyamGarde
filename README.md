@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi  I'm Satyam </h1>
-<h3 align="center">I'm a passionate Full Stack Web Development Enthusiast and  Competitive Programmer .</h3>
+
 
 ---
 
@@ -13,7 +13,7 @@
 - 💻I’m currently learning **DSA | Web dev | Java** <br/>
 - My Primary Coding language is **C++**.<br/> 
 - I love❤️ to make **exciting projects**.<br/>
--  **I love watching web series.**
+-  **I love watching sci-fi movies & web series.**
 <div align="center">
   <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width =       100px></h2>
 </div>
